@@ -1,0 +1,3 @@
+writer=open("bio.txt","w")
+writer.write(f"""my name is Femi a certified data analyst with 10 years experience who is about to become a consultant in Data Science""")
+writer.close()

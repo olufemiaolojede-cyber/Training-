@@ -1,0 +1,3 @@
+writer=open("car.pdf", "w")
+writer.write(f"""I just want to brief you about my career journey of data analyst. The tech world is great, but comes with its challenges especially when you don't have an IT background, anyway with continuous efforts I will get there""")
+writer.close()
