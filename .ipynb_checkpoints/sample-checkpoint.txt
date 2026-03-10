@@ -1,0 +1,53 @@
+OLUFEMI ALEXANDER OLOJEDE
+Sheffield, United Kingdom | +44 7799 445885 | olufemi.a.olojede@gmail.com
+LinkedIn: linkedin.com/in/olufemi-alexander-olojede-ab8930266 | Right to work in the UK | https://github.com/olufemiaolojede-cyber
+PROFESSIONAL SUMMARY
+Data Analyst / Data Scientist with 3+ years of experience working with large product and operational datasets. Strong expertise in SQL, Python, Power BI, and statistical analysis with experience generating insights from high-dimensional datasets. Skilled in hypothesis testing, A/B experimentation, KPI development, and translating data insights into product improvements. Experienced collaborating with product and engineering teams to design data-driven solutions, build dashboards, and develop analytical prototypes that support strategic decision making.
+CORE SKILLS
+Advanced SQL (CTEs, window functions, complex joins, query optimisation)
+Python (Pandas, NumPy, data analysis and experimentation workflows)
+A/B Testing and Experiment Analysis
+Exploratory Data Analysis (EDA) and Statistical Modelling
+Power BI and Data Visualisation
+Product and Customer Analytics
+KPI Development and Performance Monitoring
+Large Dataset Analysis and Data Transformation
+Business Intelligence Reporting
+Stakeholder Communication and Data Storytelling
+PROFESSIONAL EXPERIENCE
+Data Analyst – Code-Ultima | Jan 2025 – Present
+►
+Analyse large operational and customer datasets using SQL and Python to identify product and user behaviour trends.
+►
+Perform exploratory data analysis on datasets exceeding 100k+ records to uncover insights and optimisation opportunities.
+►
+Design and maintain Power BI dashboards used by management to monitor KPIs and operational performance.
+►
+Support product teams by generating hypotheses and evaluating feature performance using data-driven methods.
+►
+Develop complex SQL queries and data pipelines for reporting and analysis.
+►
+Collaborate with engineering teams to translate analytical findings into measurable product improvements.
+Junior Business Data Analyst – Digital Echoes | Nov 2021 – Present
+►
+Collected and analysed operational and system data to support product and business decision-making.
+►
+Conducted exploratory data analysis to identify patterns and performance trends across applications.
+►
+Defined and monitored key performance indicators across internal platforms.
+►
+Built automated dashboards to improve visibility of product and operational metrics.
+►
+Communicated analytical findings to stakeholders through reports and visual dashboards.
+Head of Insurance Claims – Ark Insurance Brokers Limited | Oct 2017 – Oct 2021
+►
+Managed reporting and analysis across claims portfolios and operational performance metrics.
+►
+Analysed claims datasets to identify trends that improved settlement outcomes by 15%.
+►
+Prepared structured management reports for executive decision making.
+►
+Worked with IT teams to strengthen internal reporting systems and data processes.
+EDUCATION
+MSc International Business & Marketing – Sheffield Hallam University, UK
+BSc Insurance – Lagos State University
